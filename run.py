@@ -11,5 +11,6 @@ if ranaxd == '64bit':
  import MOHAMED
 elif ranaxd == '32bit':
  print('\033[1;91m[◽\033[1;91m] \033[1;92mYour Devive is 32bit')
- import MOHAMED32
+ exit() 
+ 
  
